@@ -1,7 +1,7 @@
 
 # Discord Weather Bot
 
-A simple Discord bot that provides the current weather for a given US zipcode.
+A simple Discord bot that provides the current weather for a given US zipcode.  This was a simple experiment with Gemini-CLI.  Building the bot took no more than 3 or 4 minutes.  I take no credit as I have practically no experience with node.js or building discord bots.  Gemini did all the work of building.  The most challenging part for me was installing it.  Isn't AI wonderful? (I'm scared...)
 
 ## Features
 
