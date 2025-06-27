@@ -45,7 +45,7 @@ A simple Discord bot that provides the current weather for a given US zipcode.  
    - `guildId`: The ID of the Discord server where you want to test the commands instantly. This is optional for global commands but recommended for development.
 
 5. **Register Slash Commands:**
-   Run the following command once to register the `/weather` command with Discord.
+   Run the following command once to register the `/weather` and `/forecast` commands with Discord.
    ```bash
    node deploy-commands.js
    ```
