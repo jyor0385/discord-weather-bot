@@ -6,7 +6,7 @@ A simple Discord bot that provides the current weather for a given US zipcode.  
 ## Features
 
 - Fetches current weather data using the OpenWeatherMap API.
-- Responds to a `/weather` slash command.
+- Responds to `/weather` and `/forecast` slash commands to provide current or forcasted weather respectively.
 - Can take a zipcode as an argument.
 - If no zipcode is provided, the bot will prompt the user to enter one.
 
@@ -61,6 +61,8 @@ A simple Discord bot that provides the current weather for a given US zipcode.  
    In a channel where the bot has permissions, type:
    - `/weather zipcode: 12345`
    - `/weather` (The bot will then ask you to provide a zipcode).
+   - `/forecast zipcode: 12345`
+   - `/forecast` (The bot will then ask you to provide a zipcode).
 
 ## Dependencies
 
